@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 1.5;
     padding: 0;
 }
 header .imgCon {
@@ -19,3 +19,15 @@ h1 {
     text-align: center;
     color: #010B5B;
 }
+
+h2 {
+    text-align: center;
+    color: #010B5B;
+}
+
+.imgBike img {
+    width: 49%;
+    height: auto;
+    max-width: 400px;
+    max-height: 400px;
+  }
